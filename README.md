@@ -13,13 +13,11 @@ We hope to expand to host tournaments in more and more games in the future, incl
 # Past Tournaments
 <table bordercolor="#ffffff">
 <tr>
-<th align="center">
+<td align="center">
 <img width="241" height="1">
-
 [WINTER 2021]
-
-</th>
-<th align="left">
+</td>
+<td align="left">
 <img width="641" height="1">
 <b>League of Legends 1v1 Tournament:</b> VinmarcB
 <br>
@@ -28,20 +26,16 @@ We hope to expand to host tournaments in more and more games in the future, incl
 <b>Minecraft Bedwars 4v4v4v4 Tournament:</b> womp womp (<b>_rayd</b>, Stonewalled, anywayyyyyy, mesxm, <i>BeTaNiNe, KhasKid</i>)
 
 
-</th>
+</td>
 </tr>
 <tr>
 <td>
-
 [THANKSGIVING TWITCH RIVALS 2021]
-  
 </td>
 <td>
-
 <b>League of Legends: Dreaming of Rain </b>, TellaTwo, Proto Chicken, Queef Nugget, Meeps go Brrr
 <br>
 <b>VALORANT: Akamine#Hate,</b> choccopuff#kiwi, Krisy129#129, Digeono#9098, Hydra#9228
-  
 </td>
 </tr>
 <tr>
