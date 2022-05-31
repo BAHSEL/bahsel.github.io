@@ -11,7 +11,7 @@ For the past 2 years, we have offered the competitive eSports experience to over
 We hope to expand to host tournaments in more and more games in the future, including osu! and Tetris (tetr.io). Tournaments are traditionally hosted over Spring Break, Summer, Thanksgiving Break, and Winter Break, and generally either happen in the span of 1-2 weeks with games played each day or across multiple weeks, with games played on the weekend.
 
 # Past Tournaments
-<table>
+<table bordercolor="#ffffff">
 <tr>
 <th align="center">
 <img width="241" height="1">
@@ -21,8 +21,6 @@ We hope to expand to host tournaments in more and more games in the future, incl
 </th>
 <th align="left">
 <img width="641" height="1">
-
-
 <b>League of Legends 1v1 Tournament:</b> VinmarcB
 <br>
 <b>Clash Royale 1v1 Tournament:</b> Chen_Ney
@@ -34,29 +32,15 @@ We hope to expand to host tournaments in more and more games in the future, incl
 </tr>
 <tr>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
+
+[THANKSGIVING TWITCH RIVALS 2021]
   
 </td>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
+
+<b>League of Legends: Dreaming of Rain </b>, TellaTwo, Proto Chicken, Queef Nugget, Meeps go Brrr
+<br>
+<b>VALORANT: Akamine#Hate,</b> choccopuff#kiwi, Krisy129#129, Digeono#9098, Hydra#9228
   
 </td>
 </tr>
