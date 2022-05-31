@@ -16,18 +16,16 @@ We hope to expand to host tournaments in more and more games in the future, incl
 <th align="center">
 <img width="241" height="1">
 <p> 
-<small>
 [WINTER 2021]
-</small>
 </p>
 </th>
-<th align="center">
+<th align="left">
 <img width="641" height="1">
 <p> 
 <small>
-**League of Legends 1v1 Tournament:** VinmarcB
-**Clash Royale 1v1 Tournament:** Chen_Ney
-**Minecraft Bedwars 4v4v4v4 Tournament:** womp womp (**_rayd**, Stonewalled, anywayyyyyy, mesxm, *BeTaNiNe, KhasKid*)
+<b>League of Legends 1v1 Tournament:</b> VinmarcB
+<b>Clash Royale 1v1 Tournament:</b> Chen_Ney
+<b>Minecraft Bedwars 4v4v4v4 Tournament:</b> womp womp (<b>_rayd</b>, Stonewalled, anywayyyyyy, mesxm, <i>BeTaNiNe, KhasKid</i>)
 </small>
 </p>
 </th>
@@ -62,7 +60,7 @@ We hope to expand to host tournaments in more and more games in the future, incl
 </tr>
 <tr>
 <td align="center">
-Column 1
+
 </td>
 <td align="center">
 Column 2
