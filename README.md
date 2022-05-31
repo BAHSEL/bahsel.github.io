@@ -15,19 +15,21 @@ We hope to expand to host tournaments in more and more games in the future, incl
 <tr>
 <th align="center">
 <img width="241" height="1">
-<p> 
+
 [WINTER 2021]
-</p>
+
 </th>
 <th align="left">
 <img width="641" height="1">
-<p> 
-<small>
+
+
 <b>League of Legends 1v1 Tournament:</b> VinmarcB
+<br>
 <b>Clash Royale 1v1 Tournament:</b> Chen_Ney
+<br>
 <b>Minecraft Bedwars 4v4v4v4 Tournament:</b> womp womp (<b>_rayd</b>, Stonewalled, anywayyyyyy, mesxm, <i>BeTaNiNe, KhasKid</i>)
-</small>
-</p>
+
+
 </th>
 </tr>
 <tr>
