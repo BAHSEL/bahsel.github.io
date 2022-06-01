@@ -301,7 +301,8 @@ th {
   border: 0px solid var(--nc-bg-3);
   text-align: left;
   padding: 0.5rem;
-  color: var(--text-color);
+  /* color: var(--text-color); */
+  color: white;
 }
 /*th{background:var(--nc-bg-2)}tr:nth-child(even){background:var(--nc-bg-2)}*/
 table caption {
@@ -317,7 +318,8 @@ ul {
 }
 li {
   margin-top: 0.4rem;
-  color: var(--text-color);
+  /* color: var(--text-color); */
+  color: white;
 }
 ol ol,
 ol ul,
@@ -423,7 +425,8 @@ h2 {
 
 p {
   font-size: 18px;
-  color: var(--text-color);
+  /* color: var(--text-color); */
+  color: white;
 }
 
 a:link {
@@ -495,7 +498,8 @@ a:active {
   padding-left: 25px;
   padding: 0px 10px;
   max-width: 80%;
-  background:var(--bahsel-light);
+  /* background:var(--bahsel-light); */
+  background: black;
 }
 
 .footer {
