@@ -21,7 +21,7 @@
   --nc-ac-1: #79ffe1;
   --nc-ac-tx: #0c4047;
 }
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   :root {
     --nc-tx-1: #ffffff;
     --nc-tx-2: #eeeeee;
@@ -472,6 +472,7 @@ a:active {
   left: 0;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding: 16px;
+  color: white;
 
 }
 
